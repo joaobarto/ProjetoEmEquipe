@@ -1,0 +1,15 @@
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\ProjetoEmEquipe\Simulador de Lançamento de Dados\obj\Debug\net8.0\Simulador de Lançamento de Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\ProjetoEmEquipe\Simulador de Lançamento de Dados\obj\Debug\net8.0\Simulador de Lançamento de Dados.AssemblyInfoInputs.cache
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\ProjetoEmEquipe\Simulador de Lançamento de Dados\obj\Debug\net8.0\Simulador de Lançamento de Dados.AssemblyInfo.cs
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\ProjetoEmEquipe\Simulador de Lançamento de Dados\obj\Debug\net8.0\Simulador de Lançamento de Dados.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\ProjetoEmEquipe\Simulador de Lançamento de Dados\obj\Debug\net8.0\Simulador de Lançamento de Dados.sourcelink.json
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\ProjetoEmEquipe\Simulador de Lançamento de Dados\bin\Debug\net8.0\Simulador de Lançamento de Dados.exe
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\ProjetoEmEquipe\Simulador de Lançamento de Dados\bin\Debug\net8.0\Simulador de Lançamento de Dados.deps.json
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\ProjetoEmEquipe\Simulador de Lançamento de Dados\bin\Debug\net8.0\Simulador de Lançamento de Dados.runtimeconfig.json
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\ProjetoEmEquipe\Simulador de Lançamento de Dados\bin\Debug\net8.0\Simulador de Lançamento de Dados.dll
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\ProjetoEmEquipe\Simulador de Lançamento de Dados\bin\Debug\net8.0\Simulador de Lançamento de Dados.pdb
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\ProjetoEmEquipe\Simulador de Lançamento de Dados\obj\Debug\net8.0\Simulador de Lançamento de Dados.dll
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\ProjetoEmEquipe\Simulador de Lançamento de Dados\obj\Debug\net8.0\refint\Simulador de Lançamento de Dados.dll
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\ProjetoEmEquipe\Simulador de Lançamento de Dados\obj\Debug\net8.0\Simulador de Lançamento de Dados.pdb
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\ProjetoEmEquipe\Simulador de Lançamento de Dados\obj\Debug\net8.0\Simulador de Lançamento de Dados.genruntimeconfig.cache
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\ProjetoEmEquipe\Simulador de Lançamento de Dados\obj\Debug\net8.0\ref\Simulador de Lançamento de Dados.dll

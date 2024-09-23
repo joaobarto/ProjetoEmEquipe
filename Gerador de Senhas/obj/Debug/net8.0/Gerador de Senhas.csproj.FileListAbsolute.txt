@@ -1,0 +1,15 @@
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\ProjetoEmEquipe\Gerador de Senhas\obj\Debug\net8.0\Gerador de Senhas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\ProjetoEmEquipe\Gerador de Senhas\obj\Debug\net8.0\Gerador de Senhas.AssemblyInfoInputs.cache
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\ProjetoEmEquipe\Gerador de Senhas\obj\Debug\net8.0\Gerador de Senhas.AssemblyInfo.cs
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\ProjetoEmEquipe\Gerador de Senhas\obj\Debug\net8.0\Gerador de Senhas.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\ProjetoEmEquipe\Gerador de Senhas\obj\Debug\net8.0\Gerador de Senhas.sourcelink.json
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\ProjetoEmEquipe\Gerador de Senhas\bin\Debug\net8.0\Gerador de Senhas.exe
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\ProjetoEmEquipe\Gerador de Senhas\bin\Debug\net8.0\Gerador de Senhas.deps.json
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\ProjetoEmEquipe\Gerador de Senhas\bin\Debug\net8.0\Gerador de Senhas.runtimeconfig.json
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\ProjetoEmEquipe\Gerador de Senhas\bin\Debug\net8.0\Gerador de Senhas.dll
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\ProjetoEmEquipe\Gerador de Senhas\bin\Debug\net8.0\Gerador de Senhas.pdb
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\ProjetoEmEquipe\Gerador de Senhas\obj\Debug\net8.0\Gerador de Senhas.dll
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\ProjetoEmEquipe\Gerador de Senhas\obj\Debug\net8.0\refint\Gerador de Senhas.dll
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\ProjetoEmEquipe\Gerador de Senhas\obj\Debug\net8.0\Gerador de Senhas.pdb
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\ProjetoEmEquipe\Gerador de Senhas\obj\Debug\net8.0\Gerador de Senhas.genruntimeconfig.cache
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\ProjetoEmEquipe\Gerador de Senhas\obj\Debug\net8.0\ref\Gerador de Senhas.dll
