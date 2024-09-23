@@ -1,4 +1,4 @@
-﻿Calcular IMC
+﻿
 decimal peso;
 		Console.WriteLine("Insira o seu peso em kilogramas: ");
 		while (!decimal.TryParse(Console.ReadLine(), out peso) || peso <= 0)
