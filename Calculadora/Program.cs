@@ -32,7 +32,7 @@
 		        break;
 		}
 			if (operacaoValida)
-				Console.WriteLine($"Resultado: (resultado)");
+				Console.WriteLine($"Resultado: {resultado}");
 			else
 				Console.WriteLine("Operação inválida ou divisão por zero");
 	}	
