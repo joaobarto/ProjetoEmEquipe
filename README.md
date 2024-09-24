@@ -13,13 +13,18 @@
 - [ ]  Atividade 7 - Decisão de Almoço (Aleatória)
 
 ## Desevolvimento 
-Atividade 1 - Desenvolvimento de uma calculadora que peça ao usuário para definir dois números e uma operação simples (+; -; *; /).
-Atividade 3 - Criar um programa gera um número aleatório com base em um conjunto de caracteres (letras e números) com um comprimento definido pelo usuário.
-Atividade 4 - Desenvolver um conversor de temperatura entre Celsius, Fahrenheit e Kelvin para o usuário escolher o tipo de conversão.
-Atividade 5 - Simular um lançamento de um dado de seis faces e exibir o resultado aleatório, além de oferecer a opção de lançar novamente.
-Atividade 6 - Criar uma calculadora de IMC para o usuário inserir o peso e altura, além de classificar sua categoria de saúde (baixo peso, peso, normal, sobrepeso e obesidade).
-Atividade 8 - Desenvonver um cronômetro onde o usuário define quantos segundos o cronômetro deverá rodar.
+<b> Atividade 1 <b>- Desenvolvimento de uma calculadora que peça ao usuário para definir dois números e uma operação simples (+; -; *; /).
+
+<b> Atividade 3 <b> - Criar um programa gera um número aleatório com base em um conjunto de caracteres (letras e números) com um comprimento definido pelo usuário.
+
+<b> Atividade 4 <b> - Desenvolver um conversor de temperatura entre Celsius, Fahrenheit e Kelvin para o usuário escolher o tipo de conversão.
+
+<b> Atividade 5 <b> - Simular um lançamento de um dado de seis faces e exibir o resultado aleatório, além de oferecer a opção de lançar novamente.
+
+<b> Atividade 6 <b> - Criar uma calculadora de IMC para o usuário inserir o peso e altura, além de classificar sua categoria de saúde (baixo peso, peso, normal, sobrepeso e obesidade).
+
+<b> Atividade 8 <b> - Desenvonver um cronômetro onde o usuário define quantos segundos o cronômetro deverá rodar.
 
 ## Backlog
-<b>Atividade 8<b>
+<b>Atividade 7<b>
  
