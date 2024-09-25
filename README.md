@@ -15,6 +15,8 @@
 ## Desevolvimento 
 <b> Atividade 1 <b>- Desenvolvimento de uma calculadora que peça ao usuário para definir dois números e uma operação simples (+; -; *; /).
 
+<b> Atividade 2 <b>- Aplicação que gera um número aleatorio, e o usuario tenta adivinhar, tendo dicas se seu chute foi menor ou maior que o número certo.
+
 <b> Atividade 3 <b> - Criar um programa gera um número aleatório com base em um conjunto de caracteres (letras e números) com um comprimento definido pelo usuário.
 
 <b> Atividade 4 <b> - Desenvolver um conversor de temperatura entre Celsius, Fahrenheit e Kelvin para o usuário escolher o tipo de conversão.
